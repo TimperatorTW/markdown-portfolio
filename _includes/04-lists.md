@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+## My three favorite things
+1. Bouldering
+2. Coding
+3. Guitar playing
